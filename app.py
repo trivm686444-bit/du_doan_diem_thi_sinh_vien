@@ -44,7 +44,7 @@ muc_cang_thang = st.sidebar.selectbox("Mức độ căng thẳng", ["Thấp", "T
 
 input_data = pd.DataFrame([{
     'Tuổi': 20,
-    'Giới tính': i_tinh,
+    'Giới tính': gioi_tinh,
     'Khóa học': khoa_hoc,
     'Số giờ học': so_gio_hoc,
     'Tỷ lệ đi học (%)': 90.0,
